@@ -1,0 +1,1 @@
+print("Hello! My name is Friday. I was created in 2022.")
