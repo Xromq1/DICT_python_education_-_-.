@@ -2,8 +2,8 @@ from random import choice
 import sys
 
 print("HANGMAN""\nThe game will be available soon.")
-print("If you want start game press "1"")
-print("If you want to finish the game press "0"")
+print("If you want start game press ",1,"")
+print("If you want to finish the game press ",0,"")
 
 user_input = int(input(">"))
 if user_input == 0:
